@@ -1,0 +1,8 @@
+.env
+uploads/
+seed_database.py
+dms.db
+API_DOCUMENTATION.md
+IMPLEMENTATION.md
+QUICK_START.md
+QUICk_REFERENCE.md
